@@ -1,0 +1,15 @@
+<articles>
+    <art GIDNumer="59193" Type="2" Name="USŁUGA TRANSPORTOWA." Code="UT" CatalogueNumber="" BrandID="0" BrandName="" ProducerID="0" ProducerName="" EShopStatus="0" BasicUnitId="1" BasicUnitSymbol="szt" BasicUnitWeight="0.0000" ArticleGroupId="1399" NetPrice="15.0000" GrossPrice="18.4500" SalesVat="0.2300" PurchaseVat="0.2300" FeaturesQuantity="1">
+        <descriptions>
+            <desc LanguageID="1" Description="" />
+        </descriptions>
+        <features>
+            <feature Feature="" EAN="" AvailQuantity="0.0000" />
+        </features>
+        <groups>
+            <group ArticleGroupId="64" Default="0" />
+            <group ArticleGroupId="1399" Default="1" />
+        </groups>
+        text
+    </art>
+</articles>
